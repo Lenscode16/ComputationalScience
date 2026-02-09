@@ -23,5 +23,4 @@ Even when using 100 decimal places—a level of precision far beyond what NASA u
  Your log-scale graph demonstrates that while both errors decrease as you add decimal places, the **gap** between them remains significant enough to be measured.
 
 Conclusion for Lab Report:
-
-> "This experiment demonstrates that method matters as much as precision. Simply adding more decimal places (precision) does not fix the systematic error introduced by truncation. To achieve the highest accuracy in scientific computing, rounding to the nearest digit is mathematically superior to simple truncation."
+This experiment demonstrates that method matters as much as precision. Simply adding more decimal places (precision) does not fix the systematic error introduced by truncation. To achieve the highest accuracy in scientific computing, rounding to the nearest digit is mathematically superior to simple truncation.
