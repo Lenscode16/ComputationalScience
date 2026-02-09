@@ -1,5 +1,6 @@
 # ComputationalScience
  Assignment1
+ NAME: EARL LENSER B. BOLANSOY
  Output:
 <img width="1270" height="840" alt="Screenshot 2026-02-09 122501" src="https://github.com/user-attachments/assets/9d9f6c0a-79dd-4981-88ca-3cacedc6046e" />
 <img width="1296" height="378" alt="Screenshot 2026-02-09 121817" src="https://github.com/user-attachments/assets/0a15b078-43c0-495c-a2f1-386369e008b4" />
